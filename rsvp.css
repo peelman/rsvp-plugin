@@ -1,0 +1,92 @@
+/* @override http://dev.wedding.aiman.net/wp-content/plugins/rsvp/rsvp.css */
+
+/* @override http://dev.wedding.aiman.net/wp-content/plugins/rsvp/rsvp.css */
+
+#rsvp-meal-table {
+	border-collapse: collapse;
+	margin-top: 20px;
+}
+
+#rsvp-meal-table th{
+	padding: 8px;
+	background-color: silver;
+}
+#rsvp-meal-table td{
+	padding: 8px;
+	background: #e6e6e6; 
+	border-bottom: 1px solid #fff;
+	color: black;
+	border-top: 1px solid transparent;
+	text-align: center;
+}
+
+#rsvp-meal-table .left {
+	text-align: left;
+}
+
+#rsvp-meal-table .right {
+	text-align: right;
+}
+
+#rsvp-meal-table tr:hover td {
+	background: silver;
+}
+
+#rsvp-meal-table tfoot {
+	padding: 8px;
+	background-color: silver;
+	font-weight: bold;
+}
+
+#rsvp-code-form input{
+	display: inline;
+	width: auto;
+	margin: 5px 0 0 10px;
+}
+#rsvp-code-form {
+  margin: 0;
+  padding: 0;
+  min-width: 400px;
+  max-width: 600px;
+  width: 460px;
+}
+
+#rsvp-code-form fieldset {
+  padding: 10px;
+  margin: 0;
+	border: 1px solid silver;
+}
+
+#rsvp-code-form label { 
+	display: block;
+	float: left;
+	width: 225px;
+	padding: 0;
+	margin: 5px 0 0;
+	text-align: right;
+	color: #300813;
+	font-size: 14pt;
+	font-family: baskerville, georgia, times, serif;
+}
+
+#rsvp-guestlist-table {
+	width: 100%;
+	margin: 0;
+	border-collapse: collapse;	
+}
+
+#rsvp-guestlist-table tr:hover td {
+	background: silver;
+}
+
+#rsvp-guestlist-table th{
+	padding: 8px;
+	background-color: silver;
+}
+
+#rsvp-guestlist-table td{
+	padding: 8px;
+	border-bottom: 1px solid #fff;
+	color: black;
+	border-top: 1px solid transparent;
+}	
